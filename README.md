@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Colette! 👋
+🤖 I'm currently working on building Discord bots for an organization at my school and my friends.
 
 <!--
 **cmontminy/cmontminy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
